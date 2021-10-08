@@ -2,6 +2,6 @@ package test;
 
 public class juhye {
 	public static void main(String[] args) {
-		System.out.println("ÁÖÇý¹Ùº¸");
+		System.out.println("ì£¼í˜œì£¼í˜œ ã…‹ã…‹");
 	}
 }
